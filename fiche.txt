@@ -1,0 +1,72 @@
+Jules Laforgue
+  |-> 1860-1887 (tuberculose)
+  |-> maladie => melancolie
+
+Spleen de Laforgue
+  |-> recueil Sanglot de la terre
+        |-> publie a titre posthume
+
+Comment le poete renouvelle-t-il le theme du Spleen?
+  |-> quatrain 1 et 2
+  |     |-> Comment le poete nous partage son ennuie?
+  |           |-> rimes en "i" et "o"
+  |           |     |-> son de la plainte
+  |           |-> paysage pluvieux
+  |           |-> adj "eternel"
+  |           |     |-> rythme lent
+  |           |-> paysage fantastique
+  |           |     |-> il parait deconnecte du monde 
+  |           |-> il ne fait rien ou des choses enuyantes
+  |           |     |-> tirer les rideaux
+  |           |     |-> ecrire sur la vitre
+  |           |           |-> enfantin
+  |           |-> nouveau lyrisme
+  |           |     |-> il se plaind et se moque de lui-meme
+  |           |           |-> registre elegiaque (plainte)
+  |           |           |-> modernite poetique
+  |           |-> "machinalement"
+  |           |     |-> activites repetitives
+  |           |           |-> passivite
+  |           |-> "je regarde sans voix" v5
+  |           |     |-> auximore
+  |           |     |-> passivite
+  |           |-> il veut tromper son ennuie en sortant et en se motivant
+  |                 |-> verbe sortir a l'imperatif
+  |                 |-> il n'y croit pas
+  |                       |-> adverbe "peut-etre" et interjection "bah"
+  |                             |-> pessimiste
+  |                             |-> interjection familiaire
+  |                                   |-> modernite poetique
+  |-> tercet 1
+  |     |-> confirme son pessimisme
+  |           |-> paysage en accord avec ses sentiments
+  |           |-> alliteration en "p" vers 9
+  |           |     |-> son aggressif, indignation, pas de divertissment
+  |           |-> "Pas", "Personne"
+  |           |     |-> pas de nouveaute
+  |           |-> accumulation de choses desagreables v10
+  |           |-> adv "toujours" v10 + points de suspetion v10 et 11
+  |           |     |-> sentiment desagreable et penible
+  |           |-> assonance en "a" dans tout le tercet
+  |           |     |-> plainte interminable
+  |           |-> fin de la journee mais l'ennuie est tjr la
+  |-> tercet 2
+        |-> retour a la situation initiale
+              |-> journee interminable
+              |-> retour aux activites monotones v12
+              |     |-> 3 verbes coordines par la conj. de coord. "et"
+              |           |-> accumulation
+              |-> injonction "couchons-nous" v13, interjections "bah" et "ha"
+              |     |-> lassitude
+              |-> decompte les heures
+              |     |-> il se desepere de son ennuie
+              |-> fin du vers 14 = debut du vers 1
+              |     |-> boucle
+              |-> "Seul" v14
+                    |-> solitaire comme au debut
+
+conclusion
+  |-> poete evoque avce legerte et humour sa depression
+  |-> lyrisme nouveau
+  |     |-> angoisse traite avec autoderision
+  |-> Baudelaire et Verlaine avaient deja fait le theme du Spleen mais avec des images plus pesantes sans s'impliquer directement
