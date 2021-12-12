@@ -1,0 +1,560 @@
+[
+    [
+        0,
+        0,
+        {},
+        "Apollinaire"
+    ],
+    [
+        0,
+        1,
+        {
+            "1": 2
+        },
+        "voir fiche sur lui"
+    ],
+    [
+        0,
+        2,
+        {},
+        ""
+    ],
+    [
+        0,
+        3,
+        {},
+        "Comment Apollinaire associe-t-il la fuite du temps et la rupture amoureuse?"
+    ],
+    [
+        0,
+        4,
+        {
+            "1": 2
+        },
+        "v1-12 : l'image moderne du pont"
+    ],
+    [
+        0,
+        5,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "il ne peut plus le traverser, il est immobile"
+    ],
+    [
+        0,
+        6,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 2
+        },
+        "il traversait le Pont Mirabeau pour rejoindre son ex, Marie Laurencin"
+    ],
+    [
+        0,
+        7,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "rupture <-|"
+    ],
+    [
+        0,
+        8,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "strophes:"
+    ],
+    [
+        0,
+        9,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "3 decasyllabes si on additione les v2 et 3"
+    ],
+    [
+        0,
+        10,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "forme un pont"
+    ],
+    [
+        0,
+        11,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "fuite de l'amour (quatrain 1)"
+    ],
+    [
+        0,
+        12,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 2
+        },
+        "en lisant v1+2"
+    ],
+    [
+        0,
+        13,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 1,
+            "5": 2
+        },
+        "amour = couple"
+    ],
+    [
+        0,
+        14,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 2
+        },
+        "en lisant v2+3"
+    ],
+    [
+        0,
+        15,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 0,
+            "5": 2
+        },
+        "amour = coule"
+    ],
+    [
+        0,
+        16,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "nostalgie d'un amour perdu"
+    ],
+    [
+        0,
+        17,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "\"la joie venait toujours apres la peine\" v4"
+    ],
+    [
+        0,
+        18,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 0,
+            "4": 2
+        },
+        "la peine est arrivee = amour finit"
+    ],
+    [
+        0,
+        19,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "distique"
+    ],
+    [
+        0,
+        20,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "rythme plus lent"
+    ],
+    [
+        0,
+        21,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 0,
+            "4": 2
+        },
+        "met en evidence temps qui passe et le poete qui n'avance pas"
+    ],
+    [
+        0,
+        22,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "quatrain 2"
+    ],
+    [
+        0,
+        23,
+        {
+            "1": 1,
+            "2": 0,
+            "3": 2
+        },
+        "metaphore bras = pont"
+    ],
+    [
+        0,
+        24,
+        {
+            "1": 1,
+            "2": 0,
+            "3": 2
+        },
+        "v10 : les regards se sont fatigues"
+    ],
+    [
+        0,
+        25,
+        {
+            "1": 1,
+            "2": 0,
+            "3": 1,
+            "4": 2
+        },
+        "bonheur rompu"
+    ],
+    [
+        0,
+        26,
+        {
+            "1": 1,
+            "2": 0,
+            "3": 2
+        },
+        "aliteration en \"s\""
+    ],
+    [
+        0,
+        27,
+        {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 2
+        },
+        "eau qui coule"
+    ],
+    [
+        0,
+        28,
+        {
+            "1": 2
+        },
+        "v13-18 : la fuite de l'amour"
+    ],
+    [
+        0,
+        29,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "repetition de \"l'amour s'en va\""
+    ],
+    [
+        0,
+        30,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "le temps n'avance plus"
+    ],
+    [
+        0,
+        31,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "2 comparaisons"
+    ],
+    [
+        0,
+        32,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 0,
+            "4": 2
+        },
+        "v13 : fuite de l'amour - l'eau"
+    ],
+    [
+        0,
+        33,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 0,
+            "4": 2
+        },
+        "v14-15 : fuite de l'amour - consequence"
+    ],
+    [
+        0,
+        34,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "personnification de l'esperence v16"
+    ],
+    [
+        0,
+        35,
+        {
+            "1": 1,
+            "2": 0,
+            "3": 2
+        },
+        "comparaison a la violence"
+    ],
+    [
+        0,
+        36,
+        {
+            "1": 1,
+            "2": 0,
+            "3": 1,
+            "4": 2
+        },
+        "perdu tout espoir de retrouver son amour"
+    ],
+    [
+        0,
+        37,
+        {
+            "1": 1,
+            "2": 0,
+            "3": 2
+        },
+        "paronomasse (jeu sur les paronymes = 2 mots qui se distingues par une lettre differente)"
+    ],
+    [
+        0,
+        38,
+        {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 2
+        },
+        "vie est lente (violente)"
+    ],
+    [
+        0,
+        39,
+        {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 2
+        },
+        "sa vie devient violente"
+    ],
+    [
+        0,
+        40,
+        {
+            "1": 2
+        },
+        "v19-fin : la fuite du temps"
+    ],
+    [
+        0,
+        41,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "conclusion du poeme elegiaque (plainte) + negation ni ... ni ..."
+    ],
+    [
+        0,
+        42,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 2
+        },
+        "la situation n'evolue pas"
+    ],
+    [
+        0,
+        43,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "cycle (v1 = v22)"
+    ],
+    [
+        0,
+        44,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 2
+        },
+        "les choses se repetent a l'infini"
+    ],
+    [
+        0,
+        45,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "gradation"
+    ],
+    [
+        0,
+        46,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 2
+        },
+        "le temps passe de plus en plus vite"
+    ],
+    [
+        0,
+        47,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "alliteration en \"s\""
+    ],
+    [
+        0,
+        48,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 2
+        },
+        "eau qui coule"
+    ],
+    [
+        0,
+        49,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "poeme de 24 vers"
+    ],
+    [
+        0,
+        50,
+        {
+            "1": 0,
+            "2": 0,
+            "3": 2
+        },
+        "24 heures?"
+    ],
+    [
+        0,
+        51,
+        {},
+        ""
+    ],
+    [
+        0,
+        52,
+        {},
+        "conclusion:"
+    ],
+    [
+        0,
+        53,
+        {
+            "1": 2
+        },
+        "poeme elegiaque sans effusion lyrique"
+    ],
+    [
+        0,
+        54,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "images simples et modernes"
+    ],
+    [
+        0,
+        55,
+        {
+            "1": 2
+        },
+        "theme romantique"
+    ],
+    [
+        0,
+        56,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "eau associe a la fuite du temps et l'amour"
+    ],
+    [
+        0,
+        57,
+        {
+            "1": 2
+        },
+        "poeme pas adresse directement a son ex"
+    ],
+    [
+        0,
+        58,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "evient universel, concerne le lecteur"
+    ]
+]

@@ -1,0 +1,59 @@
+Apollinaire
+  |-> voir fiche sur lui
+
+Comment Apollinaire associe-t-il la fuite du temps et la rupture amoureuse?
+  |-> v1-12 : l'image moderne du pont
+  |     |-> il ne peut plus le traverser, il est immobile
+  |     |     |     |-> il traversait le Pont Mirabeau pour rejoindre son ex, Marie Laurencin
+  |     |     |-> rupture <-|
+  |     |-> strophes:
+  |     |     |-> 3 decasyllabes si on additione les v2 et 3
+  |     |     |-> forme un pont
+  |     |-> fuite de l'amour (quatrain 1)
+  |     |     |     |-> en lisant v1+2
+  |     |     |     |     |-> amour = couple
+  |     |     |     |-> en lisant v2+3
+  |     |     |           |-> amour = coule
+  |     |     |-> nostalgie d'un amour perdu
+  |     |     |-> "la joie venait toujours apres la peine" v4
+  |     |           |-> la peine est arrivee = amour finit
+  |     |-> distique
+  |     |     |-> rythme plus lent
+  |     |           |-> met en evidence temps qui passe et le poete qui n'avance pas
+  |     |-> quatrain 2
+  |           |-> metaphore bras = pont
+  |           |-> v10 : les regards se sont fatigues
+  |           |     |-> bonheur rompu
+  |           |-> aliteration en "s"
+  |                 |-> eau qui coule
+  |-> v13-18 : la fuite de l'amour
+  |     |-> repetition de "l'amour s'en va"
+  |     |     |-> le temps n'avance plus
+  |     |     |-> 2 comparaisons
+  |     |           |-> v13 : fuite de l'amour - l'eau
+  |     |           |-> v14-15 : fuite de l'amour - consequence
+  |     |-> personnification de l'esperence v16
+  |           |-> comparaison a la violence
+  |           |     |-> perdu tout espoir de retrouver son amour
+  |           |-> paronomasse (jeu sur les paronymes = 2 mots qui se distingues par une lettre differente)
+  |                 |-> vie est lente (violente)
+  |                       |-> sa vie devient violente
+  |-> v19-fin : la fuite du temps
+        |-> conclusion du poeme elegiaque (plainte) + negation ni ... ni ...
+        |     |-> la situation n'evolue pas
+        |-> cycle (v1 = v22)
+        |     |-> les choses se repetent a l'infini
+        |-> gradation
+        |     |-> le temps passe de plus en plus vite
+        |-> alliteration en "s"
+        |     |-> eau qui coule
+        |-> poeme de 24 vers
+              |-> 24 heures?
+
+conclusion:
+  |-> poeme elegiaque sans effusion lyrique
+  |     |-> images simples et modernes
+  |-> theme romantique
+  |     |-> eau associe a la fuite du temps et l'amour
+  |-> poeme pas adresse directement a son ex
+        |-> evient universel, concerne le lecteur
