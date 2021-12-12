@@ -1,0 +1,559 @@
+[
+    [
+        0,
+        0,
+        {},
+        "Apollinaire"
+    ],
+    [
+        0,
+        1,
+        {
+            "1": 2
+        },
+        "voir fiche"
+    ],
+    [
+        0,
+        2,
+        {},
+        ""
+    ],
+    [
+        0,
+        3,
+        {},
+        "Comment la saison symbolise-t-elle la fin de l'amour?"
+    ],
+    [
+        0,
+        4,
+        {
+            "1": 2
+        },
+        "v1-4 : l'approche de la mort de l'automne"
+    ],
+    [
+        0,
+        5,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "personnification, apostrophe de l'automne et oxymore (\"malade et adore\")"
+    ],
+    [
+        0,
+        6,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "marque d'affection"
+    ],
+    [
+        0,
+        7,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "automne = etat d'ame du poete"
+    ],
+    [
+        0,
+        8,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "compassion pour sa mort"
+    ],
+    [
+        0,
+        9,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "assonaces en \"ou\", \"e\" et \"a\""
+    ],
+    [
+        0,
+        10,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "vent violent"
+    ],
+    [
+        0,
+        11,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 0,
+            "4": 2
+        },
+        "annonce mort de l'automne"
+    ],
+    [
+        0,
+        12,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "alliteration en \"r\" et \"l\""
+    ],
+    [
+        0,
+        13,
+        {
+            "1": 1,
+            "2": 0,
+            "3": 2
+        },
+        "rale de la saison (craquements, raclements)"
+    ],
+    [
+        0,
+        14,
+        {
+            "1": 1,
+            "2": 0,
+            "3": 2
+        },
+        "declin de la saison"
+    ],
+    [
+        0,
+        15,
+        {
+            "1": 2
+        },
+        "v5-13 : l'hiver remplace l'automne"
+    ],
+    [
+        0,
+        16,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "elements lies a la vue : \"blancheur\", \"neige\", \"eperviers\", ... et a l'ouie : \"Cris eperviers\", \"brame\", ..."
+    ],
+    [
+        0,
+        17,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "blancheur = maladie"
+    ],
+    [
+        0,
+        18,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "automne riche en vie mais part a cause de l'hiver"
+    ],
+    [
+        0,
+        19,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 0,
+            "4": 2
+        },
+        "saison triste, paysage desole, froid"
+    ],
+    [
+        0,
+        20,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 0,
+            "4": 2
+        },
+        "eperviers = annonceurs de mauvais presages"
+    ],
+    [
+        0,
+        21,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "registre elegiaque"
+    ],
+    [
+        0,
+        22,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "confirmation amour de l'automne"
+    ],
+    [
+        0,
+        23,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "saisons en communications avce l'etat d'ame du poete"
+    ],
+    [
+        0,
+        24,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "\"nixes\" v10"
+    ],
+    [
+        0,
+        25,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "famille des Ondines"
+    ],
+    [
+        0,
+        26,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 0,
+            "4": 2
+        },
+        "creatures qui oublient l'etre aime"
+    ],
+    [
+        0,
+        27,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 0,
+            "4": 0,
+            "5": 2
+        },
+        "Ondine = Annie"
+    ],
+    [
+        0,
+        28,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 0,
+            "4": 0,
+            "5": 2
+        },
+        "mort de l'automne = mort de l'amour"
+    ],
+    [
+        0,
+        29,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "champs lexicaux de la nature et de la mort"
+    ],
+    [
+        0,
+        30,
+        {
+            "1": 1,
+            "2": 0,
+            "3": 2
+        },
+        "mort certaine de l'automne"
+    ],
+    [
+        0,
+        31,
+        {
+            "1": 2
+        },
+        "v14-fin : la fuite du temps a l'image de la fuite de l'amour"
+    ],
+    [
+        0,
+        32,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "repetition \"j'aime\" avec \"o\" lyrique"
+    ],
+    [
+        0,
+        33,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 2
+        },
+        "declare son amour a l'automne"
+    ],
+    [
+        0,
+        34,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 2
+        },
+        "plainte"
+    ],
+    [
+        0,
+        35,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 2
+        },
+        "association automne - douleur amoureuse"
+    ],
+    [
+        0,
+        36,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 2
+        },
+        "\"feuilles tombent\""
+    ],
+    [
+        0,
+        37,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 1,
+            "5": 2
+        },
+        "larmes"
+    ],
+    [
+        0,
+        38,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 2
+        },
+        "\"fruits\""
+    ],
+    [
+        0,
+        39,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 1,
+            "5": 2
+        },
+        "amour"
+    ],
+    [
+        0,
+        40,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 2
+        },
+        "personnification vent et foret en pleurs"
+    ],
+    [
+        0,
+        41,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 2
+        },
+        "\"toute leurs larmes\""
+    ],
+    [
+        0,
+        42,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 0,
+            "5": 2
+        },
+        "plainte"
+    ],
+    [
+        0,
+        43,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "modernite des derniers vers"
+    ],
+    [
+        0,
+        44,
+        {
+            "1": 0,
+            "2": 0,
+            "3": 2
+        },
+        "interpelle"
+    ],
+    [
+        0,
+        45,
+        {
+            "1": 0,
+            "2": 0,
+            "3": 2
+        },
+        "rythme casse"
+    ],
+    [
+        0,
+        46,
+        {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 2
+        },
+        "\"foule\", \"roule\" et \"secoule\""
+    ],
+    [
+        0,
+        47,
+        {
+            "1": 0,
+            "2": 0,
+            "3": 2
+        },
+        "sizain"
+    ],
+    [
+        0,
+        48,
+        {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 2
+        },
+        "feuille qui tombe"
+    ],
+    [
+        0,
+        49,
+        {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 0,
+            "5": 2
+        },
+        "larmes"
+    ],
+    [
+        0,
+        50,
+        {
+            "1": 0,
+            "2": 0,
+            "3": 2
+        },
+        "il veut qu'on fasse attention a la beaute de l'automne"
+    ],
+    [
+        0,
+        51,
+        {},
+        ""
+    ],
+    [
+        0,
+        52,
+        {},
+        "conclusion"
+    ],
+    [
+        0,
+        53,
+        {
+            "1": 2
+        },
+        "A. nous montre la transition entre l'automne en agonie et l'hiver"
+    ],
+    [
+        0,
+        54,
+        {
+            "1": 2
+        },
+        "automne = douleur amoureuse"
+    ],
+    [
+        0,
+        55,
+        {
+            "1": 2
+        },
+        "poeme de mort, fuite du temps, d'amour perdu et desolation"
+    ],
+    [
+        0,
+        56,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "rupture amoueuse marquante"
+    ],
+    [
+        0,
+        57,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "etat d'esprit meurtri"
+    ]
+]
