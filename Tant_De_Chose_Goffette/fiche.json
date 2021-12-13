@@ -1,0 +1,505 @@
+[
+    [
+        0,
+        0,
+        {},
+        "Guy Goffette"
+    ],
+    [
+        0,
+        1,
+        {
+            "1": 2
+        },
+        "poete belge"
+    ],
+    [
+        0,
+        2,
+        {
+            "1": 2
+        },
+        "1947"
+    ],
+    [
+        0,
+        3,
+        {
+            "1": 2
+        },
+        "beaucoup de metiers"
+    ],
+    [
+        0,
+        4,
+        {
+            "1": 2
+        },
+        "1995 : publigation recueil vers libre Le Pecheur d'eau"
+    ],
+    [
+        0,
+        5,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "poeme Tant de choses"
+    ],
+    [
+        0,
+        6,
+        {},
+        ""
+    ],
+    [
+        0,
+        7,
+        {},
+        "En quoi ce poeme sur \"les choses\" livre-t-il une reflexion sur la condition humaine?"
+    ],
+    [
+        0,
+        8,
+        {
+            "1": 2
+        },
+        "v1-7 : le poete decouvre l'abandon de son jaridn qui ressemble a une nature morte"
+    ],
+    [
+        0,
+        9,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "le poete s'adresse a lui meme et au lecteur avce le pronom \"tu\""
+    ],
+    [
+        0,
+        10,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "champ lexical de la nature"
+    ],
+    [
+        0,
+        11,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "decouverte du jardin en meme temps que le poete"
+    ],
+    [
+        0,
+        12,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "contraste entre ete/delabrement de l'hiver"
+    ],
+    [
+        0,
+        13,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "jardin = tableau d'une nature morte"
+    ],
+    [
+        0,
+        14,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "assonance en \"ou\""
+    ],
+    [
+        0,
+        15,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "soufle du vent"
+    ],
+    [
+        0,
+        16,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "champ lexical du delabrement"
+    ],
+    [
+        0,
+        17,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "souffrance"
+    ],
+    [
+        0,
+        18,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "melancolique"
+    ],
+    [
+        0,
+        19,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "personnification des objets en souffrance"
+    ],
+    [
+        0,
+        20,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "\"sans soin\", \"indigence\", \"mourir\""
+    ],
+    [
+        0,
+        21,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "hiver = nefaste, violent sur les objets et la nature qui sont important en ete"
+    ],
+    [
+        0,
+        22,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "\"tu as laisse\" v1;v3;v4"
+    ],
+    [
+        0,
+        23,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "il s'accuse d'une grande negligence"
+    ],
+    [
+        0,
+        24,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "allusion au Paradis qui est tout abime"
+    ],
+    [
+        0,
+        25,
+        {
+            "1": 2
+        },
+        "v7-9 : le poete creuse vivement le \"tu\" auquel il s'adresse de  negligence"
+    ],
+    [
+        0,
+        26,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "le poete prend ses responsabilites"
+    ],
+    [
+        0,
+        27,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "il est engourdi par l'hiver"
+    ],
+    [
+        0,
+        28,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "\"tant de chose\" hyperbole"
+    ],
+    [
+        0,
+        29,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "elargissement des propos"
+    ],
+    [
+        0,
+        30,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "delaissement de son jardin intime?"
+    ],
+    [
+        0,
+        31,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 2
+        },
+        "(expression cultive son jardin)"
+    ],
+    [
+        0,
+        32,
+        {
+            "1": 1,
+            "2": 1,
+            "3": 2
+        },
+        "melancolie"
+    ],
+    [
+        0,
+        33,
+        {
+            "1": 1,
+            "2": 2
+        },
+        "\"mourir\" autour de toi\""
+    ],
+    [
+        0,
+        34,
+        {
+            "1": 1,
+            "2": 0,
+            "3": 2
+        },
+        "l'abandon conduit a la souffrance"
+    ],
+    [
+        0,
+        35,
+        {
+            "1": 2
+        },
+        "v10-13 : cette fin se termine comme une lecon de morale"
+    ],
+    [
+        0,
+        36,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "\"il ne te reste plus\""
+    ],
+    [
+        0,
+        37,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 2
+        },
+        "abandon total"
+    ],
+    [
+        0,
+        38,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 2
+        },
+        "\"te\""
+    ],
+    [
+        0,
+        39,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 2
+        },
+        "n'a(s) recolte que ce qu'il/que tu a(s) seme"
+    ],
+    [
+        0,
+        40,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "il n'a plus rien d'agreable a contempler"
+    ],
+    [
+        0,
+        41,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "courant d'air = changement de saison"
+    ],
+    [
+        0,
+        42,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 2
+        },
+        "impression de grand vide"
+    ],
+    [
+        0,
+        43,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "prise de conscience"
+    ],
+    [
+        0,
+        44,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "alliteration en \"t\""
+    ],
+    [
+        0,
+        45,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 2
+        },
+        "son dur, reproches, insiste sur les pronoms personnels, et les determinants"
+    ],
+    [
+        0,
+        46,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "le froid saisit le poete"
+    ],
+    [
+        0,
+        47,
+        {
+            "1": 0,
+            "2": 1,
+            "3": 2
+        },
+        "melancolie croissante"
+    ],
+    [
+        0,
+        48,
+        {
+            "1": 0,
+            "2": 2
+        },
+        "inversement des saisons"
+    ],
+    [
+        0,
+        49,
+        {
+            "1": 0,
+            "2": 0,
+            "3": 2
+        },
+        "c'est au debut de l'ete qu'il se sent mal"
+    ],
+    [
+        0,
+        50,
+        {
+            "1": 0,
+            "2": 0,
+            "3": 2
+        },
+        "sa negligence se retourne contre lui"
+    ],
+    [
+        0,
+        51,
+        {},
+        ""
+    ],
+    [
+        0,
+        52,
+        {},
+        "conclusion"
+    ],
+    [
+        0,
+        53,
+        {
+            "1": 2
+        },
+        "prend conscience qu'abandonner son jardin = s'abandonner"
+    ],
+    [
+        0,
+        54,
+        {
+            "1": 2
+        },
+        "le lecteur est comlice (\"tu\")"
+    ],
+    [
+        0,
+        55,
+        {
+            "1": 2
+        },
+        "poeme proche des fables et notamment de la cigale et la fourmis"
+    ]
+]
