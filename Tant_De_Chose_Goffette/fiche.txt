@@ -1,56 +1,56 @@
 Guy Goffette
-  |-> poete belge
+  |-> poète belge
   |-> 1947
-  |-> beaucoup de metiers
-  |-> 1995 : publigation recueil vers libre Le Pecheur d'eau
-        |-> poeme Tant de choses
+  |-> beaucoup de métiers
+  |-> 1995 : publication recueil vers libre Le Pêcheur d'eau
+        |-> poème Tant de choses
 
-En quoi ce poeme sur "les choses" livre-t-il une reflexion sur la condition humaine?
-  |-> v1-7 : le poete decouvre l'abandon de son jaridn qui ressemble a une nature morte
-  |     |-> le poete s'adresse a lui meme et au lecteur avce le pronom "tu"
+En quoi ce poème sur "les choses" livre-t-il une reflexion sur la condition humaine?
+  |-> v1-7 : le poète découvre l'abandon de son jardin qui ressemble à une nature morte
+  |     |-> le poète s'adresse a lui-même et au lecteur avec le pronom "tu"
   |     |-> champ lexical de la nature
-  |     |     |-> decouverte du jardin en meme temps que le poete
-  |     |     |-> contraste entre ete/delabrement de l'hiver
+  |     |     |-> découverte du jardin en même temps que le poète
+  |     |     |-> contraste entre été/delabrement de l'hiver
   |     |     |-> jardin = tableau d'une nature morte
   |     |-> assonance en "ou"
   |     |     |-> soufle du vent
-  |     |-> champ lexical du delabrement
+  |     |-> champ lexical du délabrement
   |     |     |-> souffrance
-  |     |     |-> melancolique
+  |     |     |-> mélancolique
   |     |     |-> personnification des objets en souffrance
   |     |-> "sans soin", "indigence", "mourir"
-  |     |     |-> hiver = nefaste, violent sur les objets et la nature qui sont important en ete
+  |     |     |-> hiver = néfaste, violent sur les objets et la nature qui sont important en été
   |     |-> "tu as laisse" v1;v3;v4
-  |     |     |-> il s'accuse d'une grande negligence
-  |     |-> allusion au Paradis qui est tout abime
-  |-> v7-9 : le poete creuse vivement le "tu" auquel il s'adresse de  negligence
-  |     |-> le poete prend ses responsabilites
+  |     |     |-> il s'accuse d'une grande négligence
+  |     |-> allusion au Paradis qui est tout abîmé
+  |-> v7-9 : le poète creuse vivement le "tu" auquel il s'adresse de négligence
+  |     |-> le poète prend ses responsabilités
   |     |-> il est engourdi par l'hiver
   |     |-> "tant de chose" hyperbole
-  |     |     |-> elargissement des propos
-  |     |     |-> delaissement de son jardin intime?
-  |     |     |     |-> (expression cultive son jardin)
-  |     |     |-> melancolie
+  |     |     |-> élargissement des propos
+  |     |     |-> délaissement de son jardin intime?
+  |     |     |     |-> (expression cultiver son jardin)
+  |     |     |-> mélancolie
   |     |-> "mourir" autour de toi"
-  |           |-> l'abandon conduit a la souffrance
-  |-> v10-13 : cette fin se termine comme une lecon de morale
+  |           |-> l'abandon conduit à la souffrance
+  |-> v10-13 : cette fin se termine comme une leçon de morale
         |-> "il ne te reste plus"
         |     |-> abandon total
         |     |-> "te"
-        |           |-> n'a(s) recolte que ce qu'il/que tu a(s) seme
-        |-> il n'a plus rien d'agreable a contempler
+        |           |-> n'a(s) récolté que ce qu'il/que tu a(s) semé
+        |-> il n'a plus rien d'agréable a contempler
         |-> courant d'air = changement de saison
         |     |-> impression de grand vide
         |-> prise de conscience
-        |-> alliteration en "t"
-        |     |-> son dur, reproches, insiste sur les pronoms personnels, et les determinants
-        |-> le froid saisit le poete
-        |     |-> melancolie croissante
+        |-> allitération en "t"
+        |     |-> son dur, reproches, insiste sur les pronoms personnels, et les déterminants
+        |-> le froid saisit le poète
+        |     |-> mélancolie croissante
         |-> inversement des saisons
-              |-> c'est au debut de l'ete qu'il se sent mal
-              |-> sa negligence se retourne contre lui
+              |-> c'est au début de l'été qu'il se sent mal
+              |-> sa négligence se retourne contre lui
 
 conclusion
   |-> prend conscience qu'abandonner son jardin = s'abandonner
   |-> le lecteur est comlice ("tu")
-  |-> poeme proche des fables et notamment de la cigale et la fourmis
+  |-> poème proche des fables et notamment de la cigale et la fourmis
